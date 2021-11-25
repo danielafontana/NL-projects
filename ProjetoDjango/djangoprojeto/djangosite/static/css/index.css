@@ -1,0 +1,8 @@
+.text-style {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 40px;
+    color: darkblue;
+    font-family: cursive;
+}
